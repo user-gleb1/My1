@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ваш персональный сайт</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f5f5f5;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #ffffff;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            color: #333;
+        }
+        p {
+            color: #666;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Ваше имя</h1>
+        <p>Ваша биография: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac justo euismod, tincidunt elit vel, aliquet nunc.</p>
+        <h2>Резюме</h2>
+        <ul>
+            <li>Образование: Ваш университет, степень</li>
+            <li>Опыт работы: Название компании, должность</li>
+            <!-- Добавьте больше деталей резюме по мере необходимости -->
+        </ul>
+        <h2>Контактная информация</h2>
+        <p>Email: ваш@email.com</p>
+        <p>Телефон: +1 123-456-7890</p>
+        <!-- Добавьте ссылки на социальные сети, портфолио и т. д. -->
+    </div>
+</body>
+</html>
